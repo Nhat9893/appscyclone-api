@@ -10,7 +10,7 @@ class ApiController
 {
 	/**
      * @SWG\Get(
-     *   path="/members/getCheckToken",
+     *   path="/members/getCheckToken123",
      *   description="",
      *   summary="View",
      *   operationId="api.members.members.getCheckToken",
